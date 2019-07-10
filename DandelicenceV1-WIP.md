@@ -1,3 +1,9 @@
+# Dandelicence
+
+## A licence that works on good faith, because why can't we all just be friends instead of bickering?
+
+### Version 1, 10th of July 2019 UTC
+
 Redistribution and use in source and binary forms, with or without modification, with or without commercial intentions, are permitted provided that the following conditions are met:
 
 1) Redistributions of unmodified or near-unmodified source code must retain this very licence in unmodified form somewhere inside it.
