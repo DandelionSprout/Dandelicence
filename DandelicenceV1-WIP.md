@@ -2,6 +2,8 @@
 
 ## A licence that works on good faith, because why can't we all just be friends instead of bickering?
 
+### Dandelicence's homepage: https://github.com/DandelionSprout/Dandelicence
+
 ### Version 1, 10th of July 2019 UTC
 
 Redistribution and use in source and binary forms, with or without modification, with or without commercial intentions, are permitted provided that the following conditions are met:
