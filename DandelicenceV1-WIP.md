@@ -12,7 +12,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 * * 4b. If it's feasibly possible, the incorporated content from B is to be placed in its own paragraph, and the following template or something similar should be used: *"Below are \<content> that [I/we] borrowed from \<the name of B>, which is maintained by \<link to B's maintainer> at \<link to B's project>, and which is licenced under \<B's licence>."*
 
-* * 4c. Content that was originally incorporated, but which has since been significantly transformed, are exempted from 4a, but not from 4.
+* * 4c. Content that was originally incorporated, but which has since been significantly transformed, are exempted from 4a and 4b, but not from 4.
 
 5) Should there be incompatible disprecancies between different translations of this licence, then the British English version takes precedence.
 
