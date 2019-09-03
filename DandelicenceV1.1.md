@@ -4,7 +4,7 @@
 
 ### Dandelicence's homepage: https://github.com/DandelionSprout/Dandelicence
 
-### Version 1.1-WIP, 12th of July 2019 UTC
+### Version 1.1, 3rd of September 2019 UTC
 
 Redistribution and use in source and binary forms, with or without modification, with or without commercial intentions, are permitted provided that the following conditions are met:
 
@@ -32,7 +32,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 8) It is merely optional for the Dandelicence-using project to list copyright details (e.g. name, year) in the licence file. However, it should be made clear in some or another way who the creator of the source code was, for example (but not limited to) through the project's homepage or FAQ page, even if it's just a fictional username. Should you wish to include the copyright details, they are written on the line beneath the version number/date line. It is preferable to use the Unicode character © instead of (C).
 
-9) This licence was partially written as a contrast to those licences that shout at the top of lungs in all-caps about non-liability. It is therefore considered bad sport (although non-enforceably so) to change any section of this licence into all-caps.
+9) This licence was partially written as a contrast to those licences that yell at the top of lungs in all-caps about non-liability. It is therefore considered bad sport (although non-enforceably so) to change any section of this licence into all-caps.
 
 10) The source code that is covered by the licence, and any redistributions of unmodified or near-unmodified source code, shall be accessible in some or another capacity at whichever access price in at least 100 countries worldwide. This is to try to prevent it from e.g. being solely accessible from United States-only streaming services or similarly restricted services. VPN access does not count towards the tally. A "country" is defined as a member state of the United Nations, or alternately the Republic of China, the Sahrawi Arab Democratic Republic's Free Zone, Vatican State, Kosovo, or Northern Cyprus. Should the work not be available in a sufficient amount of countries, any living person may request to the project's maintainer that it be made available in at least 10 more countries within 14 days. 14-day periods may be stacked through successive requests placed 14 or more days after the previous request was placed, until 100 countries have been reached.
 
