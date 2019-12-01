@@ -4,7 +4,7 @@
 
 ### Dandelicence's homepage: https://github.com/DandelionSprout/Dandelicence
 
-### Version 1.2-WIP, 30th of November 2019 UTC
+### Version 1.2-WIP, 1st of December 2019 UTC
 
 Redistribution and use in source and binary forms, with or without modification, with or without commercial intentions, are permitted provided that the following conditions are met:
 
@@ -35,5 +35,5 @@ Redistribution and use in source and binary forms, with or without modification,
 
 ———————————————————————————————————————
 
-⁽¹⁾ = Including GPLv3, GPLv2, MPLv2, CC BY, CC BY-NC, CC BY-SA and CC BY-NC-SA (among others).
+⁽¹⁾ = Including GPLv3, GPLv2, MPLv2, CC BY, CC BY-NC, CC BY-SA and CC BY-NC-SA (among others).<br>
 ⁽²⁾ = Including GPLv3, GPLv2, CC BY-SA, CC BY-NC-SA, Eclipse and EUPL (among others).
