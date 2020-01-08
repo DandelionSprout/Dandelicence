@@ -10,7 +10,7 @@
 | Commercial use of modifications | Allowed |
 | Creditation | Required for source code or light modifications (Not required at all if your modifications have become transformative, or if the original work had no self-creditation to begin with) |
 | Share-alike | Required for source code or light modifications (Not required at all if your modifications have become transformative) |
-| GPL compatibility | Contingent on elaborate gentlemen's-agreements that are outlined in the licence |
+| GPL compatibility | Intended to work by encapsulating GPL source material into GPL-subjected sections/paragraphs. |
 | Multi-licencing | Other licences can be stated for individual files and sections; otherwise forbidden |
 | Geographical availability | ≥100 countries |
 | Ransomware/skimmingware | Forbidden to include |
