@@ -4,7 +4,7 @@
 
 ### Dandelicence's homepage: https://github.com/DandelionSprout/Dandelicence
 
-### Version 1.2-WIP, 8th of January UTC
+### Version 1.2, 11th of January UTC
 
 Redistribution and use in source and binary forms, with or without modification, with or without commercial intentions, are permitted provided that the following conditions are met:
 
@@ -19,7 +19,8 @@ Redistribution and use in source and binary forms, with or without modification,
 * * 4a. To make it easier for A's creator to display their good faith, creditation for incorporated content should be added as fast as possible without needing a request from B, if B's content was licenced with a creditation requirement⁽¹⁾, or was from a project that appears to not mention any licences or copyright policies of any sort.
 * * 4b. If the content was taken from a project whose licence had a share-alike clause⁽²⁾, and which has not been sufficiently transformed to count as transformative work, it will be treated as still being licenced under B's licence. Otherwise, it will be treated as being under the Dandelicence.
 * * 4c. If it's feasible, the incorporated content from B is to be placed in its own section, and the following template or something similar should be used: *"Below are \<content> that [I/we] borrowed from \<the name of B>, which is maintained by \<link to B's maintainer> at \<link to B's project>, and which is licenced under \<B's licence>."*
-* * 4d. Content that was originally incorporated, but which has since become transformative, are exempted from 4a, 4b and 4c, but not from 4.
+* * 4d. The owner(s) of A can choose to donate and relicence any portion of his/her own code to any other project of any kind even if it has not become transformative, unless it's subject to 4a or 4b.
+* * 4e. Content that was originally incorporated, but which has since become transformative, are exempted from 4a, 4b and 4c, but not from 4.
 
 5) The British English version of this licence is the official version. All other translations are unofficial.
 
