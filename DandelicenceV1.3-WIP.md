@@ -13,8 +13,6 @@
 * * **Transformative work** if more than 20% of the lines or 20% of the sentences (whichever is more) have been altered from their original borrowing,
 * * **Near-unmodified** if it is somewhere between those two categories.
 
-For the purposes of section 4, if A believes that their content use has become transformative, A can optionally add a note about it in the 4c template for as long as B does not contest the claim.
-
 * The British English version of this licence is the official version. All other translations are unofficial.
 
 * A **country** is defined as a United Nations member state, the Republic of China, the Sahrawi Arab Democratic Republic's Free Zone, Vatican State, Kosovo, or Northern Cyprus.
