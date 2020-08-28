@@ -6,8 +6,6 @@
 
 ### Version 1.3-WIP, 28th of August 2020
 
-———————————————————————————————————————
-
 ## Glossary
 
 * Except where local laws and/or B's licences from §4 state otherwise, redistributions or borrowed content counts as
@@ -20,8 +18,6 @@ For the purposes of section 4, if A believes that their content use has become t
 * The British English version of this licence is the official version. All other translations are unofficial.
 
 * A **country** is defined as a United Nations member state, the Republic of China, the Sahrawi Arab Democratic Republic's Free Zone, Vatican State, Kosovo, or Northern Cyprus.
-
-———————————————————————————————————————
 
 ## Licence text
 
@@ -47,15 +43,13 @@ Redistribution and use in all forms, with or without modification, with or witho
 
 7) Any (near-)unmodified redistributions of the source code, shall be accessible in some way in ≥100 countries worldwide⁽³⁾. VPN access does not count. If the work is not available in enough countries, any living person can request that A's maintainer must make it available in 10 more countries within 14 days. Once a 14-day period has finished, a new request can be placed, until 100 countries have been reached.
 
-———————————————————————————————————————
-
 ## Non-mandatory guidelines
 
 * If it's feasible, the incorporated content from B is to be placed in its own section, and the following template or something similar should be used: *"Below are \<content> that [I/we] borrowed from \<the name of B>, which is maintained by \<link to B's maintainer> at \<link to B's project>, and which is licenced under \<B's licence>."*
 * It is preferable to write the copyright sign as © instead of (C).
 * Adding name/year copyright-info is optional, but a name or nickname to refer to the owner as, should be stated clearly in the licence and/or in the source code.
 
-———————————————————————————————————————
+## Notes
 
 ⁽¹⁾ = Including GPLv3, GPLv2, MPLv2, CC BY, CC BY-NC, CC BY-SA and CC BY-NC-SA (among others).<br>
 ⁽²⁾ = Including GPLv3, GPLv2, CC BY-SA, CC BY-NC-SA, Eclipse and EUPL (among others).<br>
