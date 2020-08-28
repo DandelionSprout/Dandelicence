@@ -43,7 +43,7 @@ Redistribution and use in all forms, with or without modification, with or witho
 
 6) Transformative versions of the source code can be relicenced into any licence, but will remain subject to §2, §3 and §5.
 
-* * 6a) If the relicenced source code was previously added to the source code from B, then §4 applies to such content as well.
+* * 6a) For parts of the relicenced source code that were previously added to the source code from B, §4. applies to such content as well.
 
 7) Any (near-)unmodified redistributions of the source code, shall be accessible in some way in ≥100 countries worldwide⁽³⁾. VPN access does not count. If the work is not available in enough countries, any living person can request that A's maintainer must make it available in 10 more countries within 14 days. Once a 14-day period has finished, a new request can be placed, until 100 countries have been reached.
 
