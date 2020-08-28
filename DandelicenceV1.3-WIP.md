@@ -44,7 +44,7 @@ Redistribution and use in all forms, with or without modification, with or witho
 ## Non-mandatory guidelines
 
 * If it's feasible, the incorporated content from B is to be placed in its own section, and the following template or something similar should be used: *"Below are \<content> that [I/we] borrowed from \<the name of B>, which is maintained by \<link to B's maintainer> at \<link to B's project>, and which is licenced under \<B's licence>."*
-* It is preferable to write the copyright sign as © instead of (C).
+* It is preferable to write the copyright sign as © instead of (C), and the trademark sign as ™ instead of (tm).
 * Adding name/year copyright-info is optional, but a name or nickname to refer to the owner as, should be stated clearly in the licence and/or in the source code.
 
 ## Notes
